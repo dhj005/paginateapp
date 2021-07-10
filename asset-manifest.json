@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paginateapp/static/css/main.d7071943.chunk.css",
+    "main.js": "/paginateapp/static/js/main.6b91fcf5.chunk.js",
+    "main.js.map": "/paginateapp/static/js/main.6b91fcf5.chunk.js.map",
+    "runtime-main.js": "/paginateapp/static/js/runtime-main.4fb6df18.js",
+    "runtime-main.js.map": "/paginateapp/static/js/runtime-main.4fb6df18.js.map",
+    "static/js/2.161bc3c1.chunk.js": "/paginateapp/static/js/2.161bc3c1.chunk.js",
+    "static/js/2.161bc3c1.chunk.js.map": "/paginateapp/static/js/2.161bc3c1.chunk.js.map",
+    "static/js/3.3d08a89b.chunk.js": "/paginateapp/static/js/3.3d08a89b.chunk.js",
+    "static/js/3.3d08a89b.chunk.js.map": "/paginateapp/static/js/3.3d08a89b.chunk.js.map",
+    "index.html": "/paginateapp/index.html",
+    "static/css/main.d7071943.chunk.css.map": "/paginateapp/static/css/main.d7071943.chunk.css.map",
+    "static/js/2.161bc3c1.chunk.js.LICENSE.txt": "/paginateapp/static/js/2.161bc3c1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/paginateapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fb6df18.js",
+    "static/js/2.161bc3c1.chunk.js",
+    "static/css/main.d7071943.chunk.css",
+    "static/js/main.6b91fcf5.chunk.js"
+  ]
+}
